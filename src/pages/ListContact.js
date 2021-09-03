@@ -61,9 +61,6 @@ const ListContact = () => {
         } else {
             setFilterd(contacts.data);
             setKeyword(text);
-            //   setPaketFiltered(paket);
-            //   setSearch(text);
-            //   console.log(paketFiltered);
         }
     };
 

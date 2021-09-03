@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "JeniusTest.app"
-               BlueprintName = "JeniusTest"
-               ReferencedContainer = "container:JeniusTest.xcodeproj">
+               BuildableName = "AdiSiswoyo_Apptest.app"
+               BlueprintName = "AdiSiswoyo_Apptest"
+               ReferencedContainer = "container:AdiSiswoyo_Apptest.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "JeniusTestTests.xctest"
-               BlueprintName = "JeniusTestTests"
-               ReferencedContainer = "container:JeniusTest.xcodeproj">
+               BuildableName = "AdiSiswoyo_ApptestTests.xctest"
+               BlueprintName = "AdiSiswoyo_ApptestTests"
+               ReferencedContainer = "container:AdiSiswoyo_Apptest.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "JeniusTest.app"
-            BlueprintName = "JeniusTest"
-            ReferencedContainer = "container:JeniusTest.xcodeproj">
+            BuildableName = "AdiSiswoyo_Apptest.app"
+            BlueprintName = "AdiSiswoyo_Apptest"
+            ReferencedContainer = "container:AdiSiswoyo_Apptest.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "JeniusTest.app"
-            BlueprintName = "JeniusTest"
-            ReferencedContainer = "container:JeniusTest.xcodeproj">
+            BuildableName = "AdiSiswoyo_Apptest.app"
+            BlueprintName = "AdiSiswoyo_Apptest"
+            ReferencedContainer = "container:AdiSiswoyo_Apptest.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
