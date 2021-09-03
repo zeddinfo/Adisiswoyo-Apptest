@@ -1,16 +1,9 @@
-import {
-  Text,
-  //TouchableHighlight,
-  View,
-} from 'react-native';
+
 import React from 'react';
 import Adapter from 'enzyme-adapter-react-16';
 import { shallow, configure } from 'enzyme';
 import App from '../App';
-import renderer from 'react-test-renderer'
 import { Button, CardContact, Header, Input } from '../src/components';
-import configureSotre from 'redux-mock-store';
-import thunk from 'redux-thunk';
 import { describe } from '@jest/globals';
 import { CreatePage, EditPage, ListContact } from '../src/pages';
 import { Provider } from 'react-redux';
@@ -19,17 +12,10 @@ import { Actions } from 'react-native-router-flux';
 
 configure({ adapter: new Adapter(), disableLifecycleMethods: true })
 
-const profileWrapper = shallow(<App />)
-const inputWrapper = shallow(<Input />)
-
-const middlewares = [thunk];
-const mockStore = configureSotre(middlewares);
-
 export const findByTestAtrr = (component, attr) => {
   const wrapper = component.find(`[testID='${attr}']`);
   return wrapper;
 };
-
 
 jest.mock('react-native-router-flux', () => ({
   Actions: {
