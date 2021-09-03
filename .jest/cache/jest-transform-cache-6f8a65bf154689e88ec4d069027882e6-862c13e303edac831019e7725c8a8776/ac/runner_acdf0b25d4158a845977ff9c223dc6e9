@@ -1,0 +1,14 @@
+033ffeec1e31952f7244fc2b1612380c
+"use strict";
+
+/**
+ * Copyright (c) Facebook, Inc. and its affiliates. All Rights Reserved.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+// Allow people to use `jest-circus/runner` as a runner.
+var runner = require('./build/legacy-code-todo-rewrite/jestAdapter');
+
+module.exports = runner;
+//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInJ1bm5lci5qcyJdLCJuYW1lcyI6WyJydW5uZXIiLCJyZXF1aXJlIiwibW9kdWxlIiwiZXhwb3J0cyJdLCJtYXBwaW5ncyI6Ijs7QUFBQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFFQTtBQUNBLElBQU1BLE1BQU0sR0FBR0MsT0FBTyxDQUFDLDhDQUFELENBQXRCOztBQUNBQyxNQUFNLENBQUNDLE9BQVAsR0FBaUJILE1BQWpCIiwic291cmNlc0NvbnRlbnQiOlsiLyoqXG4gKiBDb3B5cmlnaHQgKGMpIEZhY2Vib29rLCBJbmMuIGFuZCBpdHMgYWZmaWxpYXRlcy4gQWxsIFJpZ2h0cyBSZXNlcnZlZC5cbiAqXG4gKiBUaGlzIHNvdXJjZSBjb2RlIGlzIGxpY2Vuc2VkIHVuZGVyIHRoZSBNSVQgbGljZW5zZSBmb3VuZCBpbiB0aGVcbiAqIExJQ0VOU0UgZmlsZSBpbiB0aGUgcm9vdCBkaXJlY3Rvcnkgb2YgdGhpcyBzb3VyY2UgdHJlZS5cbiAqL1xuXG4vLyBBbGxvdyBwZW9wbGUgdG8gdXNlIGBqZXN0LWNpcmN1cy9ydW5uZXJgIGFzIGEgcnVubmVyLlxuY29uc3QgcnVubmVyID0gcmVxdWlyZSgnLi9idWlsZC9sZWdhY3ktY29kZS10b2RvLXJld3JpdGUvamVzdEFkYXB0ZXInKTtcbm1vZHVsZS5leHBvcnRzID0gcnVubmVyO1xuIl19

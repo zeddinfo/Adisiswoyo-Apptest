@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App Screen  should renders \`App Screen\` is correctly 1`] = `ShallowWrapper {}`;
+
+exports[`App Screen Mount Component should render \`Text Input\` Component correctly 1`] = `ShallowWrapper {}`;
+
+exports[`App Screen Text Input should render \`Text Input\` Component correctly 1`] = `ShallowWrapper {}`;
+
+exports[`App Screen Text Input should render Text Input Component correctly 1`] = `ShallowWrapper {}`;
+
+exports[`App Screen should renders \`App Screen\` is correctly 1`] = `ShallowWrapper {}`;
+
+exports[`App Screen should renders \`App Screen\` module correctly 1`] = `ShallowWrapper {}`;
+
+exports[`List Contact Screen should renders \`List Contact\` is correctly 1`] = `ShallowWrapper {}`;
